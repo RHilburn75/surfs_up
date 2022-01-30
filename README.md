@@ -7,4 +7,5 @@
  
  ## Summary
  Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
-    - 
+ #### Bullet points
+ 
