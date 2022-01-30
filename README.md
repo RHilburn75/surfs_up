@@ -18,7 +18,8 @@
  
 ![image](https://user-images.githubusercontent.com/94253815/151686489-f7378790-72b6-4456-8e59-d6f3dd5fc356.png)
  
- 
+ ![image](https://user-images.githubusercontent.com/94253815/151686696-4af02ca4-aedc-462c-8ae6-86bedfe33f3e.png)
+
  ## Summary
  Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
  * Bullet points
